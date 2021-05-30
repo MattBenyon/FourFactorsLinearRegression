@@ -560,7 +560,7 @@ plt.savefig('FourFactors.png')
 
 
     
-![png](FourFactorsCopy_files/FourFactorsCopy_11_0.png)
+![png](FourFactorsCopy_11_0.png)
     
 
 
@@ -574,7 +574,7 @@ plt.show()
 
 
     
-![png](FourFactorsCopy_files/FourFactorsCopy_13_0.png)
+![png](FourFactorsCopy_13_0.png)
     
 
 
@@ -586,7 +586,7 @@ plt.show()
 
 
     
-![png](FourFactorsCopy_files/FourFactorsCopy_14_0.png)
+![png](FourFactorsCopy_14_0.png)
     
 
 
@@ -598,7 +598,7 @@ plt.show()
 
 
     
-![png](FourFactorsCopy_files/FourFactorsCopy_15_0.png)
+![png](FourFactorsCopy_15_0.png)
     
 
 
