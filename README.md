@@ -1,3 +1,0 @@
-# FourFactorsLinearRegression
-
-> Coming soon
